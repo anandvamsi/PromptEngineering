@@ -22,6 +22,9 @@
   - codecha-bison: Assit with code related queries
   - code-gecko: Provide sugestions for code auto completion
 
+    
+<img src="GoogleAI-tex.PNG" width="600">
+
 ## Image models.
 - imagegeneration: Create image viz text prompts
 - imagetext: Generate a description for an image
