@@ -21,5 +21,13 @@ Learning from examples to create a new content ; In order to create a generative
 ## A key step In Generative AI For Text - Next Word
 During the training, text based Generative AI models ```learn the probability``` that a word might occur in a specific context.
 context ::```The cat sat on the ```
-Example Probablities for the next word ```mat: 0.4, table: 0.2, chair: 0.2"
+Example Probablities for the next word ```mat: 0.4, table: 0.2, chair: 0.2```
 Model will choose based on the heighest probable
+
+
+## Tokens
+A unit of text that might be a word, Tokens are consistant than word
+Words can multiple meanings, depending on the context
+"bank" might  means finance bank or a river bank
+
+TOken will be finance_bank/river_bank
